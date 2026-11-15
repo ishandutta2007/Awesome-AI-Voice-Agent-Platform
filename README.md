@@ -66,9 +66,9 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ### ⚙️ Typical Open-Source Voice Agent Stack
 A common production-oriented open-source approach:
 1. 🛠️ **Orchestration** — Dograh (visual) or Pipecat / LiveKit Agents (code-first)
-2. 📝 **STT** — Deepgram, Whisper, Parakeet, or self-hosted alternatives
+2. 📝 **STT** — Deepgram, Gradium, Whisper, Parakeet, or self-hosted alternatives
 3. 🧠 **LLM** — Any OpenAI-compatible endpoint (cloud or self-hosted)
-4. 🔊 **TTS** — ElevenLabs, Cartesia, Kokoro, or other open models
+4. 🔊 **TTS** — ElevenLabs, Cartesia, Gradium, Kokoro, or other open models
 5. 📞 **Transport** — Twilio/Vonage/SIP or LiveKit WebRTC
 
 This gives full data ownership and eliminates per-minute platform markups while retaining flexibility.
