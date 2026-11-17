@@ -44,6 +44,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Retell AI](https://www.retellai.com/)** | Managed voice agent platform emphasizing low latency, natural conversations, and ease of deployment for inbound/outbound calling. | Pay-as-you-go (Base voice infra $0.07–$0.08/min, all-in cost ~$0.11–$0.31/min) | $10 one-time credit & 20 concurrent calls | $84M Valuation (~$60M ARR) |
 | **[PlayAI](https://play.ai/)** | Conversational AI platform with voice agent capabilities. | Subscription-based (Play.ht plans) and pay-as-you-go options | 12,500 characters/month (non-commercial, watermarked) | ~$30M Valuation |
 | **[Synthflow](https://synthflow.ai/)** | No-code / low-code voice AI automation platform for building and deploying agents. | Pay-as-you-go (Base voice engine $0.09/min, all-in cost ~$0.11–$0.24/min) | Free trial to build/test with limited test minutes | ~$15M Valuation |
+| **[Genaya](https://genaya.com/)** | AI operations platform for service businesses with an AI phone receptionist that answers every call and books jobs, plus business numbers, calling, texting, and call recording. | Subscription from $99/month (Individual plan, 1 user, per organization) | 14-day free trial (card required), no free tier | Early-stage, private |
 
 ## 🔓 Open-Source Software
 
